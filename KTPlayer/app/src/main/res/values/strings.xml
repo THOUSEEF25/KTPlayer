@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">KTPlayer</string>
+
+    <string name="delete_from_device">Delete from Device</string>
+    <string name="share_video">Share</string>
+    <string name="details">Properties</string>
+    <string name="file_provider">com.lasuak.kvplayer.fileprovider</string>
+    <string name="more_option">More option</string>
+    <string name="location">Location</string>
+    <string name="file_name">File Name</string>
+    <string name="length">Length</string>
+    <string name="resolution">Resolution</string>
+    <string name="format">Format</string>
+    <string name="size">Size</string>
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+    <string name="forward_10sec">forward 10sec</string>
+    <string name="play">Play</string>
+    <string name="backward_10sec">backward 10sec</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+    <string name="screen_rotation">Screen rotation</string>
+    <string name="full_screen">Full screen</string>
+    <string name="audio_track">Audio track</string>
+    <string name="mute">Mute</string>
+    <string name="sub_title">Subtitle</string>
+    <string name="lock">Lock</string>
+    <string name="delete_video_title">Delete video</string>
+    <string name="delete_video_msg">Delete this video ?</string>
+    <string name="delete">Delete</string>
+    <string name="Cancel">Cancel</string>
+    <string name="sharing_file">Sharing %s</string>
+    <string name="date">Date</string>
+    <string name="total_videos">%s videos</string>
+    <string name="subtitle_on">Subtitle turned on</string>
+    <string name="subtitle_off">Subtitle turned off</string>
+    <string name="no_recently_video_found">No recently played video found</string>
+    <string name="search">Search</string>
+    <string name="search_video">Search video</string>
+    <string name="select_language">Select Language</string>
+    <string name="default_language">Default</string>
+    <string name="select_subtitle">Select subtitle</string>
+    <string name="off_subtitle">Off</string>
+    <string name="item_selected">%s selected</string>
+
+</resources>
