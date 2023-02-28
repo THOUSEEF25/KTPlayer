@@ -12,8 +12,11 @@ import android.view.LayoutInflater
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.ktplayer.R
+import com.example.ktplayer.databinding.DetailsBottomsheetDialogBinding
 import com.example.ktplayer.model.Video
 import com.example.ktplayer.ui.adapter.VideoAdapter
+import com.example.ktplayer.util.AppConstant
+import com.example.ktplayer.util.AppUtil
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.coroutines.launch
 
